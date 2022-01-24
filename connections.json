@@ -1,0 +1,20 @@
+[
+  {
+    "project": "serverpos",
+    "description": "Laravel Proje Yayın",
+    "ip": "0.0.0.0",
+    "username": "root",
+    "password": "root",
+    "command": "cd laravel && git pull origin master",
+    "port": 1022
+  },
+  {
+    "project": "server22",
+    "description": "22 Sunucuaunda supervisor yeniden başlat",
+    "ip": "0.0.0.0",
+    "username": "root",
+    "password": "root",
+    "command": "service supervisord restart",
+    "port": 1022
+  }
+]
