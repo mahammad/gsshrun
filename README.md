@@ -1,5 +1,5 @@
 # gsshrun
-> Bağlantı dosyasında belirtilen sunucu/hosting(ssh desteği varsa) ssh aracılığıyla komut çalıştırma
+> Bağlantı dosyasında belirtilen sunucu/hosting(ssh desteği varsa)'de ssh aracılığıyla komut çalıştırma
 
 ### kurulum
 > Proje dizininde 
@@ -14,4 +14,4 @@
 
 
 #### Açıklama
-Proje ihtiyaç gereği yapıldı. Keskin kontroller ve geliştirmeler yapılacak
+Proje ihtiyaç gereği yapıldı. Gerekli ssh kurumlarının yapılmış olması, ssh ile sunucu/hosting'e bir kere bağlantı yaptıktan sonra çalışacaktır. Keskin kontroller ve geliştirmeler yapılacak.
